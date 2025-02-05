@@ -1,5 +1,5 @@
 <h1> 🌿 Hi, I'm Julia Martynovych!</h1>
-<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlpb2RkdG81M3h5c2hwbHpzaGh6cGM2cmZyb293NGJjdzI4MWdzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" align="left" width="200" /> </div>
+<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lodjNiN2VkeHJxZXpkN2dzaTlhdDd3Y3YxcHhqMW5kazIzN2hzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p3EZklu2En7IstEpN6/giphy.gif" align="center" width="200" /> </div>
 
 **✨ About Me**
 
