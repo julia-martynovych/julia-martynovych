@@ -5,6 +5,8 @@
 
 I'm a **Beginner Full Stack Developer** passionate about web development and creating meaningful projects. With experience in **marketing and web design**, I combine creativity and functionality to craft simple, user-friendly solutions. I'm also deeply curious about how technology can make life easier and more beautiful. 🌸
 
+Actualmente estoy trabajando en <a href="https://github.com/Noemi1977/toquen-DOM"> Escuela de Música: Clave de Sol</a>
+
 
 ### 🌐 Connect with Me
 <div>
