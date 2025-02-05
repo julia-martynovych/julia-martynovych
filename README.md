@@ -30,10 +30,9 @@ I'm a **Beginner Full Stack Developer** passionate about web development and cre
 </div>
 
 
-### 📊 GitHub Stats
+<h2> 📊 GitHub Stats</h2>
 
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=julia-martynovych&show_icons=true&theme=dracula)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=julia-martynovych&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-martynovych&layout=compact&theme=dracula)](https://github.com/lukas-burda/github-readme-stats)
-
+<br/>  
 ---
