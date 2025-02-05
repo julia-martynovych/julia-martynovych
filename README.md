@@ -1,18 +1,13 @@
-## Hi there 👋
+## 🌿 Hi, I'm Julia Martynovych!
+<div align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR1NjBjNm1keHhocXJ2dGZldm44OHdhZjdlMW1kNGRsMzAwenRuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MEFVcuRIoVETUMYZEe/giphy.gif" align="left" width="200" /> </div>
+
+**✨ About Me**
+
+I'm a **Beginner Full Stack Developer** passionate about web development and creating meaningful projects. With experience in **marketing and web design**, I combine creativity and functionality to craft simple, user-friendly solutions. I'm also deeply curious about how technology can make life easier and more beautiful. 🌸
 
 
-**julia-martynovych/julia-martynovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ### 🌐 Connect with Me
 <div>
@@ -23,6 +18,7 @@ Here are some ideas to get you started:
 ### 🧰 Technologies & Tools
 
 ### 📊 GitHub Stats
+
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=julia-martynovych&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-martynovych&layout=compact&theme=dracula)](https://github.com/lukas-burda/github-readme-stats)
