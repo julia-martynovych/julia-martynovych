@@ -1,21 +1,34 @@
-## 🌿 Hi, I'm Julia Martynovych!
-<div align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR1NjBjNm1keHhocXJ2dGZldm44OHdhZjdlMW1kNGRsMzAwenRuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MEFVcuRIoVETUMYZEe/giphy.gif" align="left" width="200" /> </div>
+<h1> 🌿 Hi, I'm Julia Martynovych!</h1>
+<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlpb2RkdG81M3h5c2hwbHpzaGh6cGM2cmZyb293NGJjdzI4MWdzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" align="left" width="200" /> </div>
 
 **✨ About Me**
 
 I'm a **Beginner Full Stack Developer** passionate about web development and creating meaningful projects. With experience in **marketing and web design**, I combine creativity and functionality to craft simple, user-friendly solutions. I'm also deeply curious about how technology can make life easier and more beautiful. 🌸
 
 
-
-
-
 ### 🌐 Connect with Me
 <div>
   <a href="https://www.linkedin.com/in/martynovych" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:martynovych.julia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/aw_juli" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+  <a href="https://www.facebook.com/juliemartynovych" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
 </div>
 
-### 🧰 Technologies & Tools
+
+
+<h2> 🧰 Technologies & Tools</h2>
+
+<div align="left">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
+</div>
+
 
 ### 📊 GitHub Stats
 
