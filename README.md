@@ -5,8 +5,9 @@
 
 I'm a **Beginner Full Stack Developer** passionate about web development and creating meaningful projects. With experience in **marketing and web design**, I combine creativity and functionality to craft simple, user-friendly solutions. I'm also deeply curious about how technology can make life easier and more beautiful. 🌸
 
-I am currently working on <a href="https://github.com/julia-martynovych/game-oop"> Game: Space Cat</a>
-Completed Projects 
+I am currently working on <a href="https://github.com/julia-martynovych/game-oop"> Game: Space Cat</a><br>
+<br>
+Completed Project:<br> 
 <a href="https://noemi1977.github.io/toquen-DOM">Web Site: Music School "Clave de Sol"</a>
 
 ### 🌐 Connect with Me
