@@ -7,7 +7,7 @@ I'm a **Beginner Full Stack Developer** passionate about web development and cre
 
 I am currently working on <a href="https://github.com/julia-martynovych/clinica-app"> Vet Clinic "Patitas Felices"</a><br>
 <br>
-Completed Project:<br> 
+Completed Projects:<br> 
 <a href="https://github.com/julia-martynovych/game-oop"> Game: Space Cat</a><br>
 <a href="https://github.com/Noemi1977/toquen-DOM">Web Site: Music School "Clave de Sol"</a><br>
 
